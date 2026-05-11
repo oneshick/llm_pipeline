@@ -15,7 +15,7 @@ llm_pipeline/
 ├── main.go               # точка входа
 ├── config/
 │   └── config.go         # чтение .env и переменных окружения
-├── models/
+├── orm/
 │   └── models.go         # структуры данных
 ├── reader/
 │   └── csv_reader.go     # чтение CSV-файла
@@ -77,8 +77,9 @@ GROQ_API_KEY=gsk_ВАШ_КЛЮЧ_СЮДА
 ### 4. Запустите
 
 ```powershell
-cd Pipeline
-go mod init llm_pipeline
+cd llm_pipeline
+
+go mod tidy
 go build -o pipeline.exe .
 .\pipeline.exe
 ```
