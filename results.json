@@ -1,0 +1,625 @@
+{
+  "model": "llama-3.1-8b-instant",
+  "total_items": 50,
+  "failed": 0,
+  "products": [
+    {
+      "id": "1",
+      "name": "Apple iPhone 15 Pro 256GB Natural Titanium",
+      "brand": "Apple",
+      "category": "Смартфоны",
+      "price_rub": 0,
+      "currency": "RUB",
+      "key_specs": [
+        "чип A17 Pro",
+        "камера 48 МП",
+        "экран 6.1 дюйма Super Retina XDR",
+        "поддержка USB-C"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Samsung Galaxy S24 Ultra 512GB Titanium Black",
+      "brand": "Samsung",
+      "category": "смартфон",
+      "price_rub": 0,
+      "currency": "RUB",
+      "key_specs": [
+        "чип Snapdragon 8 Gen 3",
+        "S Pen",
+        "камера 200 МП",
+        "экран 6.8 дюйма Dynamic AMOLED"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Sony WH-1000XM5 Wireless Noise Cancelling Headphones Black",
+      "brand": "Sony",
+      "category": "Наушники",
+      "price_rub": 0,
+      "currency": "RUB",
+      "key_specs": [
+        "активное шумоподавление",
+        "Bluetooth 5.2",
+        "до 30 часов работы"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Xiaomi Mi Robot Vacuum Cleaner X20 Plus",
+      "brand": "Xiaomi",
+      "category": "Робот-пылесос",
+      "price_rub": 0,
+      "currency": "RUB",
+      "key_specs": [
+        "лазерная навигация",
+        "мощность 4000 Па",
+        "управление через приложение"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "LEGO Technic Lamborghini Sian FKP 37 (42115)",
+      "brand": "Lego",
+      "category": "Конструкторы",
+      "price_rub": 0,
+      "currency": "RUB",
+      "key_specs": [
+        "3696 деталей",
+        "масштаб 1:8",
+        "функциональная подвеска"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Apple MacBook Air 13 M3 512GB Silver",
+      "brand": "Apple",
+      "category": "Ноты",
+      "price_rub": 0,
+      "currency": "RUB",
+      "key_specs": [
+        "Apple M3",
+        "Retina дисплей",
+        "Автономность до 18 часов"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Dell XPS 15 9530 Intel i7 32GB RTX 4060",
+      "brand": "Dell",
+      "category": "ноутбуки",
+      "price_rub": 0,
+      "currency": "RUB",
+      "key_specs": [
+        "Intel i7",
+        "32GB",
+        "RTX 4060",
+        "OLED экран",
+        "3.5K"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "ASUS ROG Strix G16 Gaming Laptop RTX 4070",
+      "brand": "ASUS",
+      "category": "игровые ноутбуки",
+      "price_rub": 0,
+      "currency": "RUB",
+      "key_specs": [
+        "165Hz дисплей",
+        "RGB клавиатура"
+      ]
+    },
+    {
+      "id": "9",
+      "name": "iPad Pro 12.9 M2 256GB Space Gray",
+      "brand": "Apple",
+      "category": "Планшеты",
+      "price_rub": 0,
+      "currency": "RUB",
+      "key_specs": [
+        "Liquid Retina XDR дисплей",
+        "Apple Pencil",
+        "256GB память"
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Samsung Galaxy Tab S9 Ultra 512GB",
+      "brand": "Samsung",
+      "category": "",
+      "price_rub": 0,
+      "currency": "RUB",
+      "key_specs": [
+        "AMOLED экран 14.6 дюйма",
+        "S Pen в комплекте"
+      ]
+    },
+    {
+      "id": "11",
+      "name": "GoPro Hero 12 Black Action Camera",
+      "brand": "GoPro",
+      "category": "Экшн-камеры",
+      "price_rub": 0,
+      "currency": "RUB",
+      "key_specs": [
+        "5.3К",
+        "HyperSmooth 6.0"
+      ]
+    },
+    {
+      "id": "12",
+      "name": "DJI Mini 4 Pro Drone Fly More Combo",
+      "brand": "",
+      "category": "Дроны",
+      "price_rub": 0,
+      "currency": "RUB",
+      "key_specs": [
+        "4K камера",
+        "дальность 20 км",
+        "компактный"
+      ]
+    },
+    {
+      "id": "13",
+      "name": "PlayStation 5 Slim Digital Edition",
+      "brand": "",
+      "category": "Игровые консоли",
+      "price_rub": 0,
+      "currency": "RUB",
+      "key_specs": [
+        "нового поколения",
+        "без дисковода"
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Xbox Series X 1TB",
+      "brand": "Microsoft",
+      "category": "Геймовые консоли",
+      "price_rub": 0,
+      "currency": "RUB",
+      "key_specs": [
+        "4К 120fps",
+        " Самая мощная консоль Microsoft"
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Apple Watch Series 9 45mm GPS",
+      "brand": "Apple",
+      "category": "",
+      "price_rub": 0,
+      "currency": "RUB",
+      "key_specs": [
+        "умные часы",
+        "мониторинг здоровья",
+        "Always-On дисплей"
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Samsung Galaxy Watch 6 Classic",
+      "brand": "Samsung",
+      "category": "",
+      "price_rub": 0,
+      "currency": "RUB",
+      "key_specs": [
+        "вращающийся безель",
+        "Wear OS"
+      ]
+    },
+    {
+      "id": "17",
+      "name": "JBL Charge 5 Bluetooth Speaker",
+      "brand": "JBL",
+      "category": "аудиотехника",
+      "price_rub": 0,
+      "currency": "RUB",
+      "key_specs": [
+        "большой объём",
+        "портативность",
+        "закрытый дизайн"
+      ]
+    },
+    {
+      "id": "18",
+      "name": "Marshall Stanmore III Bluetooth Speaker",
+      "brand": "Marshall",
+      "category": "Бluetooth спикеры",
+      "price_rub": 0,
+      "currency": "RUB",
+      "key_specs": [
+        "премиальный звук",
+        "классический дизайн"
+      ]
+    },
+    {
+      "id": "19",
+      "name": "Logitech MX Master 3S Mouse",
+      "brand": "Logitech",
+      "category": "Мышь",
+      "price_rub": 0,
+      "currency": "RUB",
+      "key_specs": [
+        "Беспроводная",
+        "Для работы и программирования"
+      ]
+    },
+    {
+      "id": "20",
+      "name": "Keychron K8 Mechanical Keyboard RGB",
+      "brand": "",
+      "category": "",
+      "price_rub": 0,
+      "currency": "RUB",
+      "key_specs": [
+        "механическая клавиатура",
+        "горячая замена свитчей",
+        "RGB"
+      ]
+    },
+    {
+      "id": "21",
+      "name": "Razer BlackShark V2 Pro Headset",
+      "brand": "Razer",
+      "category": "Игровая гарнитура",
+      "price_rub": 0,
+      "currency": "RUB",
+      "key_specs": [
+        "THX Spatial Audio"
+      ]
+    },
+    {
+      "id": "22",
+      "name": "Canon EOS R6 Mark II Camera Body",
+      "brand": "Canon",
+      "category": "камера",
+      "price_rub": 0,
+      "currency": "RUB",
+      "key_specs": [
+        "беззеркальная камера",
+        "24Мп",
+        "профессиональная"
+      ]
+    },
+    {
+      "id": "23",
+      "name": "Sony Alpha A7 IV Mirrorless Camera",
+      "brand": "Sony",
+      "category": "Камеры",
+      "price_rub": 0,
+      "currency": "RUB",
+      "key_specs": [
+        "универсальная камера",
+        "для фото и видео"
+      ]
+    },
+    {
+      "id": "24",
+      "name": "HP LaserJet Pro M404dn Printer",
+      "brand": "HP",
+      "category": "Принтеры",
+      "price_rub": 0,
+      "currency": "RUB",
+      "key_specs": [
+        "моноблок",
+        "лазерный",
+        "монохромный"
+      ]
+    },
+    {
+      "id": "25",
+      "name": "Epson EcoTank L3250 Printer",
+      "brand": "Epson",
+      "category": "",
+      "price_rub": 0,
+      "currency": "RUB",
+      "key_specs": [
+        "система непрерывной подачи чернил"
+      ]
+    },
+    {
+      "id": "26",
+      "name": "Dyson V15 Detect Vacuum Cleaner",
+      "brand": "Dyson",
+      "category": "Беспроводные пылесосы",
+      "price_rub": 0,
+      "currency": "RUB",
+      "key_specs": [
+        "лазерный детектор пыли",
+        "беспроводной"
+      ]
+    },
+    {
+      "id": "27",
+      "name": "Philips Air Fryer XXL HD9650",
+      "brand": "Philips",
+      "category": "Помощники для приготовления",
+      "price_rub": 0,
+      "currency": "RUB",
+      "key_specs": []
+    },
+    {
+      "id": "28",
+      "name": "Bosch Series 6 Washing Machine 9kg",
+      "brand": "Bosch",
+      "category": "стиральная машина",
+      "price_rub": 0,
+      "currency": "RUB",
+      "key_specs": [
+        "инверторный мотор"
+      ]
+    },
+    {
+      "id": "29",
+      "name": "LG OLED C3 55 inch TV",
+      "brand": "LG",
+      "category": "Телевизоры",
+      "price_rub": 0,
+      "currency": "RUB",
+      "key_specs": [
+        "OLED",
+        "телевизор",
+        "чёрный цвет"
+      ]
+    },
+    {
+      "id": "30",
+      "name": "Samsung QLED Q80C 65 дюймовый Телевизор",
+      "brand": "Samsung",
+      "category": "Телевизоры",
+      "price_rub": 0,
+      "currency": "RUB",
+      "key_specs": [
+        "QLED",
+        "HDR10+",
+        "65 дюймов"
+      ]
+    },
+    {
+      "id": "31",
+      "name": "Nintendo Switch OLED Model",
+      "brand": "Nintendo",
+      "category": "игровые консоли",
+      "price_rub": 0,
+      "currency": "RUB",
+      "key_specs": [
+        "портативная",
+        "ОLED экран"
+      ]
+    },
+    {
+      "id": "32",
+      "name": "Anker PowerBank 20000mAh 65W",
+      "brand": "Anker",
+      "category": "внешний аккумулятор",
+      "price_rub": 0,
+      "currency": "RUB",
+      "key_specs": [
+        "мощность до 65 Вт",
+        "емкость 20000 мАч"
+      ]
+    },
+    {
+      "id": "33",
+      "name": "UGREEN USB-C Hub 8-in-1",
+      "brand": "UGREEN",
+      "category": "устройства периферии",
+      "price_rub": 0,
+      "currency": "RUB",
+      "key_specs": [
+        "HDMI",
+        "USB 3.0",
+        "кардридер"
+      ]
+    },
+    {
+      "id": "34",
+      "name": "HyperX Cloud II Gaming Headset",
+      "brand": "HyperX",
+      "category": "игровые головные устройства",
+      "price_rub": 0,
+      "currency": "RUB",
+      "key_specs": [
+        "игровой звук 7.1",
+        "гарнитура"
+      ]
+    },
+    {
+      "id": "35",
+      "name": "Corsair Vengeance 32GB DDR5 RAM",
+      "brand": "Corsair",
+      "category": "оперативная память для ПК",
+      "price_rub": 0,
+      "currency": "RUB",
+      "key_specs": [
+        "32GB DDR5 RAM"
+      ]
+    },
+    {
+      "id": "36",
+      "name": "Samsung 990 PRO 1TB SSD",
+      "brand": "Samsung",
+      "category": "SSD",
+      "price_rub": 0,
+      "currency": "RUB",
+      "key_specs": [
+        "NVMe",
+        "высокая скорость чтения"
+      ]
+    },
+    {
+      "id": "37",
+      "name": "Seagate External HDD 4TB Backup Plus",
+      "brand": "Seagate",
+      "category": "внешние жесткие диски",
+      "price_rub": 0,
+      "currency": "RUB",
+      "key_specs": [
+        "4TB",
+        "внешний жёсткий диск",
+        "хранение данных"
+      ]
+    },
+    {
+      "id": "38",
+      "name": "TP-Link Archer AX73 Wi-Fi 6 Router",
+      "brand": "TP-Link",
+      "category": "",
+      "price_rub": 0,
+      "currency": "RUB",
+      "key_specs": [
+        "Wi-Fi 6",
+        "быстрый"
+      ]
+    },
+    {
+      "id": "39",
+      "name": "Google Nest Hub 2 Smart Display",
+      "brand": "Google",
+      "category": "",
+      "price_rub": 0,
+      "currency": "RUB",
+      "key_specs": [
+        "умный дисплей",
+        "Google Assistant"
+      ]
+    },
+    {
+      "id": "40",
+      "name": "Amazon Echo Dot 5th Gen",
+      "brand": "Amazon",
+      "category": "",
+      "price_rub": 0,
+      "currency": "RUB",
+      "key_specs": [
+        "Умная колонка",
+        "Alexa"
+      ]
+    },
+    {
+      "id": "41",
+      "name": "Fitbit Charge 6 Fitness Tracker",
+      "brand": "Fitbit",
+      "category": "Фитнес-браслеты",
+      "price_rub": 0,
+      "currency": "RUB",
+      "key_specs": [
+        "GPS",
+        "мониторинг сна"
+      ]
+    },
+    {
+      "id": "42",
+      "name": "Xiaomi Smart Band 8",
+      "brand": "Xiaomi",
+      "category": "Фитнес-браслеты",
+      "price_rub": 0,
+      "currency": "RUB",
+      "key_specs": [
+        "Bluetooth",
+        "Wi-Fi",
+        "мониторинг параметров",
+        "зарядка"
+      ]
+    },
+    {
+      "id": "43",
+      "name": "Nike Air Force 1 Sneakers",
+      "brand": "Nike",
+      "category": "классические кроссовки",
+      "price_rub": 0,
+      "currency": "RUB",
+      "key_specs": []
+    },
+    {
+      "id": "44",
+      "name": "Adidas Ultraboost 22 Running Shoes",
+      "brand": "Adidas",
+      "category": "Беговые кроссовки",
+      "price_rub": 0,
+      "currency": "RUB",
+      "key_specs": [
+        "амортизация"
+      ]
+    },
+    {
+      "id": "45",
+      "name": "Apple AirPods Pro 2",
+      "brand": "Apple",
+      "category": "наушники",
+      "price_rub": 0,
+      "currency": "RUB",
+      "key_specs": [
+        "беспроводные",
+        "шумоподавление"
+      ]
+    },
+    {
+      "id": "46",
+      "name": "Bose QuietComfort 45 Headphones",
+      "brand": "Bose",
+      "category": "наушники",
+      "price_rub": 0,
+      "currency": "RUB",
+      "key_specs": [
+        "ANC",
+        "премиум"
+      ]
+    },
+    {
+      "id": "47",
+      "name": "Lenovo ThinkPad X1 Carbon Gen 11",
+      "brand": "Lenovo",
+      "category": "Бизнес-ноутбук",
+      "price_rub": 0,
+      "currency": "RUB",
+      "key_specs": [
+        "премиум-класс",
+        "11 поколение",
+        "бизнес-версия",
+        "ноутбук"
+      ]
+    },
+    {
+      "id": "48",
+      "name": "Acer Nitro 5 Gaming Laptop RTX 4050",
+      "brand": "Acer",
+      "category": "Ноутбуки",
+      "price_rub": 0,
+      "currency": "RUB",
+      "key_specs": [
+        "игровой",
+        " budget",
+        "RTX 4050"
+      ]
+    },
+    {
+      "id": "49",
+      "name": "Realme GT 5 Pro Smartphone",
+      "brand": "Realme",
+      "category": "смартфоны",
+      "price_rub": 0,
+      "currency": "RUB",
+      "key_specs": [
+        "Snapdragon 8 Gen 3",
+        "производительный"
+      ]
+    },
+    {
+      "id": "50",
+      "name": "Nothing Phone 2 256GB",
+      "brand": "Nothing",
+      "category": "смартфоны",
+      "price_rub": 0,
+      "currency": "RUB",
+      "key_specs": [
+        "прозрачный дизайн",
+        "Glyph интерфейс",
+        "256ГБ",
+        "смартфон"
+      ]
+    }
+  ]
+}
